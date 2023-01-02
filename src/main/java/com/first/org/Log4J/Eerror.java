@@ -1,4 +1,4 @@
-package com.first.org.Log4J;
+//package com.first.org.Log4J;
 
 public class Eerror {
 
@@ -8,3 +8,5 @@ public class Eerror {
 	}
 
 }
+// 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
+//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
